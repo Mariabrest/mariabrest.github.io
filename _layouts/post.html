@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+{% include head.html %}
+<body>
+  {% include header.html %}
+  <div class="page-wrap">
+    <main role="main">
+      <div class="page-container">
+        {% if page.img %}
+         <img class="page-img" src={{ "" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        {% endif %}
+        <div class="page-content">
+          <article>
+            <h1 class="page-title">{{page.title}}</h1>
+            {% if page.author %}
+            <span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{page.author}}</span></div>
+            {% endif %}
+            {{page.content | markdownify}}
+          </article>
+          {% include share.html %}
+        </div>
+      </div>
+    </main>
+  </div>
+  {% include footer.html %}
+  {% include javascripts.html %}
+</body>
+</html>

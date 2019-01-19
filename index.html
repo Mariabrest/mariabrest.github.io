@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+  <div class="page-wrap">
+    <main role="main">
+      <div class="flex-grid">
+        {% for post in site.categories.post %}
+        <article class="main-articles">
+           {% if post.img %}
+           <a href="{{post.url | prepend: site.baseurl}}">
+              <img class="post-image" src={{  "" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+            </a>
+           {% endif %}
+            <div class="post-content">
+              <div class="wrap-content">
+                <header class="header-article">
+                  <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+                </header>
+                <p>{{post.description}}</p>
+                <h5 class="onward"> <a href="{{ post.url|prepend: site.baseurl }}">Читать дальше </a> </h5>
+              </div>
+            </div>
+        </article>
+  {% endfor %}
+      </div>
+    </main>
+  </div>
