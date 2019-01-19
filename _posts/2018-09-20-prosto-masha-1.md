@@ -3,7 +3,7 @@ layout: post
 title:  "Les 12 des choses incontournables à visiter à Minsk"
 description: Minsk est une nouvelle destination idéale pour un voyage de découverte. Que faire et que voir lors d’une première visite de la capitale ? Voici un tour des 12 sites incontournables de la ville.
 categories: technology update post
-img: /assets/images/posts/masha.jpg
+img: /assets/images/DSC_0117.JPG
 
 ---
 # LA BIBLIOTHEQUE NATIONALE
