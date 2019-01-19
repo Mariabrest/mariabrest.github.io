@@ -11,6 +11,7 @@ mikä on ranskankielinen teksti, oli karhuja, mikä on ranskankielinen teksti, o
 mikä on ranskankielinen teksti, oli karhuja, mikä on ranskankielinen teksti, oli karhuja, mikä on ranskankielinen teksti, oli karhuja,
 ![images](../assets/images/posts/fRbRyoLSJik.jpg)
 ![images](../assets/images/DSC_0117.jpg)
+https://github.com/Mariabrest/mariabrest.github.io/blob/master/assets/images/DSC_0117.JPG?raw=true
 mikä on ranskankielinen teksti, oli karhuja, mikä on ranskankielinen teksti, oli karhuja, mikä on ranskankielinen teksti, oli karhuja,
 *прпалрпа*
 
