@@ -23,6 +23,9 @@ twitter_url: https://twitter.com/
 facebook_url: https://facebook.com/
 instagram_url: https://www.instagram.com/destination_belarus/
 
+# Google Analytics
+google_analytics: UA-125039245-3
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
