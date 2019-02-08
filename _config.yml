@@ -17,25 +17,13 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-pwa-plugin
 
 # Social settings
 twitter_url: https://twitter.com/Votreami_voyage
 facebook_url: https://www.facebook.com/votreami.aubelarus
 instagram_url: https://www.instagram.com/votreami_voyage
 
-pwa:
-  sw_src_filepath: service-worker.js # Optional
-  sw_dest_filename: service-worker.js # Optional
-  dest_js_directory: assets/js # Required
-  precache_recent_posts_num: 5 # Optional
-  precache_glob_directory: / # Optional
-  precache_glob_patterns: # Optional
-    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
-    - index.html
-  precache_glob_ignores: # Optional
-    - sw-register.js
-    - "fonts/**/*"
+
 
 
 
