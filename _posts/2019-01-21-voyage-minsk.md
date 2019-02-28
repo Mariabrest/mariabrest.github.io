@@ -41,7 +41,7 @@ Aussi on peut prendre des belles photos devant le théâtre ou faire un tour dan
 ![images](../assets/images/posts/voyage-minsk/fon.jpg)
 ## LE MUSEE DE LA SECONDE GUERRE MONDIALE 
 Le musée raconte l'histoire de la Seconde Guerre mondiale. Il possède une riche collection : photographies, documents, armes, munitions, attribut et insignes militaires, afin de raconter la lutte contre les nazis dans un pays qui a fortement été touché par la guerre.
-![images](../assets/images/posts/voyage-minsk/mus.JPG)
+![images](../assets/images/posts/voyage-minsk/mus.jpg)
 Derrière le musée vous trouvez le parc de la victoire. Cet endroit est idéal pour une promenade dans la nature en plein centre ville. Surtout au printemps et en été ce parc est magnifique. Pendant votre promenade vous verrez des fontaines, un grand lac et ne manquez pas l’île des oiseaux.
 ![images](../assets/images/posts/voyage-minsk/parc.JPG)
 ## LE MARCHE KOMAROVSKY 
